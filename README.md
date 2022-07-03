@@ -1,4 +1,4 @@
-## PortfolioProjects
+## SQLPortfolioProjects
 
 1) [Created a simple SQL data exploration based on YouTube trending videos from 2017-2018](https://github.com/AntiNova928/PortfolioProjects/blob/main/SQL%20Query%20for%20Trending%20Youtube%20Video%20Stats%20v1.sql)
    - Wanted to know if there are any correlation between the trending videos and the type of content being put out
